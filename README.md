@@ -10,8 +10,8 @@
 🧑‍🎓**MBA em Big Data e Inteligência Competitiva**
 
 <a href="https://github.com/alvarotavares07">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=alvarotavares07&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/> 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarotavares07&layout=compact&langs_count=7&theme=gruvbox"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=alvarotavares07&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> 
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarotavares07&layout=compact&langs_count=7&theme=radical"/>
 </a>
 
 ---
