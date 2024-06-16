@@ -1,20 +1,23 @@
 # Alvaro Tavares
 
-💼 Hoje trabalho como analista de negócios  
-📩 Contate-me no e-mail: [alvaro1@outlook.com](mailto:alvaro1@outlook.com)
+Hoje trabalho como analista de negócios.  
+Contate-me no e-mail: [alvaro1@outlook.com](mailto:alvaro1@outlook.com)
 
 ## Formação Acadêmica
-🧑‍🎓**Bacharelado em Administração**  
-🧑‍🎓**Pós-graduação Engenharia de Software**
-🧑‍🎓**Pós-graduação em Análise de Dados**  
-🧑‍🎓**MBA em Big Data e Inteligência Competitiva**
 
-<a href="https://github.com/alvarotavares07">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=alvarotavares07&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarotavares07&layout=compact&langs_count=7&theme=radical"/>
-</a>
+- 🎓 Bacharelado em Administração
+- 🎓 Pós-graduação em Engenharia de Software
+- 🎓 Pós-graduação em Análise de Dados
+- 🎓 MBA em Big Data e Inteligência Competitiva
 
----
+## Estatísticas do GitHub
+
+| <a href="https://github.com/alvarotavares07/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=alvarotavares07&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Alvaro's github stats" /></a> | <a href="https://github.com/alvarotavares07/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarotavares07&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+
+
+## Tecnologias
 
 <div>
   <img alt="Alvaro-Js" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="display: inline-block;"> 
@@ -24,7 +27,7 @@
   <img alt="Alvaro-Selenium" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" style="display: inline-block;">
 </div>
 
----
+## Contato
 
 <div>
   <a href="https://www.instagram.com/alvarotavares1/" target="_blank">
