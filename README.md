@@ -182,9 +182,6 @@ Pode me chamar pelo LinkedIn ou mandar um e-mail. Respondo rápido.
 
 <br/><br/>
 
-![Snake animation](https://raw.githubusercontent.com/alvarotavares07/alvarotavares07/output/github-contribution-grid-snake-dark.svg)
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:003333,100:00fff5&height=110&section=footer" width="100%"/>
 
