@@ -181,8 +181,3 @@ Pode me chamar pelo LinkedIn ou mandar um e-mail. Respondo rápido.
 </a>
 
 <br/><br/>
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:003333,100:00fff5&height=110&section=footer" width="100%"/>
-
-</div>
